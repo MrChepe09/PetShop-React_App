@@ -1,0 +1,9 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+.heading {
+  color: grey;
+  padding: 1rem;
+  font-size: 2rem;
+}

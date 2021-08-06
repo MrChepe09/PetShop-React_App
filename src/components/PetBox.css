@@ -1,0 +1,17 @@
+.box {
+  /* border: 1px solid grey; */
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 2px 6px 0 rgba(0, 0, 0, 0.19);
+  margin: 1rem;
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+
+.box > h3 {
+  color: grey;
+  font-size: 1.6rem;
+}
+
+.box > h4 {
+  color: grey;
+  font-size: 1.2rem;
+}

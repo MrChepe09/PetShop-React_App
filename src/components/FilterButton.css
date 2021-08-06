@@ -1,0 +1,11 @@
+.filter-button {
+  background-color: white;
+  border: none;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2), 0 2px 6px 0 rgba(0, 0, 0, 0.19);
+  color: grey;
+  margin: 0.3rem 0.5rem;
+}
+
+.active {
+  border: 2px solid black;
+}

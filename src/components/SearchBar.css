@@ -1,0 +1,14 @@
+.mb-3 {
+  margin: 0rem 1rem;
+  padding-right: 2rem;
+}
+
+.input {
+  border: 1px solid grey;
+  border-right: none;
+}
+
+.button {
+  border-left: none;
+  background-color: white;
+}
